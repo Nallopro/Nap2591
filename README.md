@@ -23,7 +23,7 @@ Can measure between 88k and 188 µlux. To measure light under 0.1 lux, it’s re
 
 What will you need:
 (The links are referals from me, you WON'T get charged extra but I get a cut from it, which allows me to build more stuff :) 
-Parts (20$):
+Parts (about 20$ per meter):
 
 1× ESP32-C3 Super Mini (https://s.click.aliexpress.com/e/_c41wHTtF)
 
@@ -63,11 +63,8 @@ Parts (20$):
 Tools:
 
 Soldering equipment
-
 Wire cutters
-
 And if you are not feeling brave, some tweezers
-
 3D printer (or buy a case)
 
 
