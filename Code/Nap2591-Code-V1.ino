@@ -10,7 +10,6 @@ const float Adc_multiplier = 0.00109756;  // This is the corection factor for th
 //The rest shouldn't be touched unless you know what you doing.
 // Made by Nallo :3
 //Last update 25-4-26.
-
 //-----------Code-----------
 
 #include <Wire.h>
