@@ -26,29 +26,50 @@ What will you need:
 Parts (20$):
 
 1× ESP32-C3 Super Mini (https://s.click.aliexpress.com/e/_c41wHTtF)
+
 1× TSL2591 PCB (https://s.click.aliexpress.com/e/_c3hkabo1)
+
 1× SSD1306 0.96" OLED screen (https://s.click.aliexpress.com/e/_c3Dy3aXL)
+
 1× 3.3 V boost converter (https://s.click.aliexpress.com/e/_c3kTGYrL) (3.3v)
+
 1× 2×AAA battery holder, in series (https://s.click.aliexpress.com/e/_c3ukn5yt)
+
 1× passive buzzer (https://s.click.aliexpress.com/e/_c3g7U38v)
+
 1× 220 Ω through hole resistor, DIN0207 (this is the buzzer resistor)
+
 1× 220 kΩ through hole resistor, DIN0207
+
 1× 100 kΩ through hole resistor, DIN0207 (A bunch of resistors: https://s.click.aliexpress.com/e/_c4oAmL4Z)
+
 1× 105 / 1 µF ceramic capacitor (https://s.click.aliexpress.com/e/_c4pnTCgV)
+
 1× 106 / 10 µF ceramic capacitor (https://s.click.aliexpress.com/e/_c4pnTCgV)
+
 1× SS54 Schottky diode, SMA package (https://s.click.aliexpress.com/e/_c43h8BlF)
+
 1× button (https://s.click.aliexpress.com/e/_c32nrtd7)
+
 2× SMD switches (https://s.click.aliexpress.com/e/_c3d35sVP) (I used 3mm handles)
+
 
 1× PCB (You can order it from companies like JCLPCB or PCBWAY)
 
+
 2× AAA batteries
 
+
 Tools:
+
 Soldering equipment
+
 Wire cutters
+
 And if you are not feeling brave, some tweezers
+
 3D printer (or buy a case)
+
 
 --------------------------------------------------------------------------------------------------------
 
