@@ -17,7 +17,7 @@ Consumes 20 mAh @ 3 V. Powered with 2x AAA batteries, it should achieve nearly 5
 
 It uses a boost converter that takes the battery voltage and gives a nice and stable 3.3 V for the ESP32.
 
-Can measure between 88k and 188 µlux. To measure light under 0.1 lux, it’s recommended to switch to slow mode, which reduces reading speed but can achieve way lower results.
+Can measure between 88k and 188 µlux. To measure light under 0.1 lux, it’s recommended to switch to slow mode, which reduces reading speed but can achieve a reading in way darker places.
 
 --------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,14 @@ Tools:
 Soldering equipment
 Wire cutters
 And if you are not feeling brave, some tweezers
+3D printer (or buy a case)
 
 --------------------------------------------------------------------------------------------------------
 
-How to asemble
+How to asemble:
+
+Read the stuff printed on the PCB it should help clear out any doubts.
+Solder the boost converter before the screen and the TSL2591 after the resistors/buzzer.
+
+
+
