@@ -59,13 +59,18 @@ Parts (about 20$ per meter):
 
 2× AAA batteries
 
+-
 
 Tools:
 
 Soldering equipment
+
 Wire cutters
+
 And if you are not feeling brave, some tweezers
+
 3D printer (or buy a case)
+
 
 
 --------------------------------------------------------------------------------------------------------
