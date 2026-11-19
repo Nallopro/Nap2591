@@ -1,6 +1,8 @@
 # Nap2591
 A low-cost, extremely low-light handheld sensor powered by 2x AAA batteries. Made up of a TSL2591 light sensor, a 0.96" OLED screen, an Esp32 super mini, and a few more electronic components.
 
+<img src="Images/Spinny gif.gif" width="400">
+
 --------------------------------------------------------------------------------------------------------
 
 I made some night vision goggles and I wanted to test in how much darkness they could see and record it.
@@ -23,7 +25,7 @@ Can measure between 88k and 188 µlux. To measure light under 0.1 lux, it’s re
 
 - What will you need:
 (The links are referals from me, you WON'T get charged extra but I get a cut from it, which allows me to build more stuff :) 
-Parts (about 20$ per meter):
+Parts (as in mid 2026, about 20$ per meter):
 
 1× ESP32-C3 Super Mini (https://s.click.aliexpress.com/e/_c41wHTtF)
 
@@ -79,6 +81,8 @@ How to asemble:
 
 Read the stuff printed on the PCB it should help clear out any doubts.
 Solder the boost converter before the screen and the TSL2591 after the resistors/buzzer.
+
+
 
 
 
