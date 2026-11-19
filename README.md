@@ -1,8 +1,12 @@
 # Nap2591
 A low-cost, extremely low-light handheld sensor powered by 2x AAA batteries. Made up of a TSL2591 light sensor, a 0.96" OLED screen, an Esp32 super mini, and a few more electronic components.
-
+<p align="center">
 <img src="Images/Spinny gif.gif" width="400">
+</p
 
+<p align="center">
+<img src="Images/No cap.jpg" width="400">
+</p  
 --------------------------------------------------------------------------------------------------------
 
 I made some night vision goggles and I wanted to test in how much darkness they could see and record it.
